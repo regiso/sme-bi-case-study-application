@@ -19,6 +19,9 @@
 #### Learning Objective
 
 *One measurable learning objective that this exercise assesses*
+
+This exercise comes from Chapter 1 in the outline - how to prep data for a Market Basket Analysis.
+
 Transform raw Tree Inventory data into a format that is compatible with Market Basket Analysis
 
 #### Context
