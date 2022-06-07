@@ -19,6 +19,7 @@
 #### Learning Objective
 
 *One measurable learning objective that this exercise assesses*
+Transform raw Tree Inventory data into a format that is compatible with Market Basket Analysis
 
 #### Context
 
@@ -29,17 +30,23 @@ You can look at the same [exercise]([url](https://campus.datacamp.com/courses/ca
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
+- Step 1 Examine the fields in the data set
+- Step 2 Hide fields that are not necessary for the Market Basket Analysis
+- Step 3 Join the transformed dataset to its original version
+- Step 4 Hide fields in the joined data set to match the transformation in step 2
 - ...
 
 #### Exercise question:
 *This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
 
+Which of the 9 variables in the transformed data set were engineered from the original Buffalo Open Data Tree Inventory?
+Answer - Genus
+Distractors - Site ID, Total Yearly Eco Benefits
+
 #### End goal:
 
 *Add an image of the final visualization here.*
+![vmimage1](https://user-images.githubusercontent.com/16366682/172264762-732464a5-ca7f-488f-a248-bf1861175e2f.jpg)
 
 ## Finalized Workbook
 
@@ -49,6 +56,10 @@ You can upload your final workbook in the exercises folder as `ex-final-sol.twbx
 #### Explanation & Description
 Which answers will the learner be able to solve once building this? How does it fit in the bigger picture?
 
+This Market Basket Analysis will contribute to the strategic planning process for the Buffalo Urban Forest.
+The results will provide insights into options to maintaining the existing character and biodiversity.
+
 #### End goal:
 
 *Add an image of the final visualization here.*
+![Dashboard](https://user-images.githubusercontent.com/16366682/172268397-2ffac4d3-4850-44f8-a2d8-c12d9d3315a0.jpg)
